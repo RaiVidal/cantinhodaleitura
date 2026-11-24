@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Rails credentials
+/config/master.key
+/config/*.key
+
+# Logs
+/log/*
+!/log/.keep
+
+# Temporary files
+/tmp/*
+!/tmp/.keep
+
+# Database
+/db/*.sqlite3
+/db/*.sqlite3-*
+
+# Storage
+/storage/*
+!/storage/.keep
+
+# JavaScript dependencies and Vite build output
+/node_modules
+/public/vite
+/public/vite-dev
+/public/vite-test

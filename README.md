@@ -46,6 +46,4 @@ Abra o [acervo público local](http://localhost:3000/#/acervo-publico).
 
 A instalação começa com o acervo vazio. O cadastro de materiais é feito pelo painel administrativo com uma conta de administrador. O PostgreSQL guarda os cadastros e o Active Storage guarda as capas, os PDFs e os áudios em `storage/` no ambiente de desenvolvimento.
 
-## Origem
 
-Versão pessoal do projeto colaborativo [extension-projects/cantinhodaleitura](https://github.com/extension-projects/cantinhodaleitura).

@@ -11,11 +11,11 @@ Biblioteca digital para descobrir livros, ler PDFs e ouvir audiolivros. O projet
 
 ## Tecnologias
 
-Ruby 3.4.12 · Rails 8.1 · PostgreSQL · Vue 3 · Vite 8 · PDF.js
+Ruby 3.4.13 · Rails 8.1 · PostgreSQL · Vue 3 · Vite 8 · PDF.js
 
 ## Como executar
 
-Tenha Ruby 3.4.12, Node.js 26.13.0 e PostgreSQL instalados. Clone o repositório e instale as dependências na raiz do projeto.
+Tenha Ruby 3.4.13, Node.js 26.13.0 e PostgreSQL instalados. Clone o repositório e instale as dependências na raiz do projeto.
 
 ```sh
 git clone https://github.com/RaiVidal/cantinhodaleitura.git
